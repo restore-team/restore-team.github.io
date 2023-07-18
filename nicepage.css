@@ -28774,17 +28774,16 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
  .u-header {background-image: none}
-.u-header .u-sheet-1 {min-height: 102px}
-.u-header .u-image-1 {margin: 9px auto 0 16px}
-.u-header .u-logo-image-1 {width: 100%; height: 100%}
-.u-header .u-menu-1 {margin: -60px 0 33px auto}
+.u-header .u-sheet-1 {min-height: 109px}
+.u-header .u-image-1 {width: 152px; height: 74px; margin: 18px auto 0 78px}
+.u-header .u-menu-1 {margin: -57px 0 35px auto}
 .u-header .u-nav-1 {font-size: 1.25rem; letter-spacing: normal}
 .u-header .u-nav-2 {font-size: 1.25rem} 
-@media (max-width: 1199px){ .u-header .u-image-1 {margin-left: 0; width: 171px; height: 84px}
-.u-header .u-menu-1 {width: auto; margin-top: -60px} }
+@media (max-width: 1199px){ .u-header .u-image-1 {width: 152px; height: 74px}
+.u-header .u-menu-1 {margin-top: -57px} }
 
 
-
+@media (max-width: 575px){ .u-header .u-menu-1 {margin-bottom: 39px} }
  .u-footer {background-image: none}
 .u-footer .u-sheet-1 {min-height: 242px}
 .u-footer .u-text-1 {width: 417px; margin: 49px auto 0}
