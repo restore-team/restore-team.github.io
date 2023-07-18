@@ -1,0 +1,55 @@
+.u-section-1 {background-image: url("images/mario-wallpapers-2.jpg"); background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 382px}
+.u-section-1 .u-image-1 {width: 549px; height: 269px;  margin: 57px auto} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 315px} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 241px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 173px}
+.u-section-1 .u-image-1 {width: 540px; height: 265px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 75px}
+.u-section-1 .u-image-1 {width: 340px; height: 167px} }.u-section-2 .u-sheet-1 {min-height: 94px}
+.u-section-2 .u-social-icons-1 {height: 48px; min-height: 16px; width: 106px; min-width: 42px;  margin: 23px auto}
+.u-section-2 .u-icon-1 {height: 48px}
+.u-section-2 .u-icon-2 {height: 48px}.u-section-3 .u-sheet-1 {min-height: 160px}
+.u-section-3 .u-group-1 {width: 800px; min-height: 93px; height: auto; margin: 30px auto 37px}
+.u-section-3 .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
+.u-section-3 .u-text-1 {font-weight: 700; margin: 0 41px} 
+
+@media (max-width: 1199px){ .u-section-3 .u-container-layout-1 {padding-top: 30px; padding-bottom: 30px} }
+
+@media (max-width: 991px){ .u-section-3 .u-group-1 {width: 720px} }
+
+@media (max-width: 767px){ .u-section-3 .u-group-1 {width: 540px}
+.u-section-3 .u-container-layout-1 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-3 .u-group-1 {width: 340px} }.u-section-4 .u-sheet-1 {min-height: 721px}
+.u-section-4 .u-list-1 {width: 573px; margin: 19px auto 50px 252px}
+.u-section-4 .u-repeater-1 {min-height: 652px; grid-template-columns: repeat(2, calc(((100% - 1140px) / 2)  + 503px)); grid-gap: 133px}
+.u-section-4 .u-container-layout-1 {padding: 10px}
+.u-section-4 .u-image-1 {height: 199px; margin-top: 0; margin-bottom: 0}
+.u-section-4 .u-text-1 {margin: 12px auto 0}
+.u-section-4 .u-container-layout-2 {padding: 10px}
+.u-section-4 .u-image-2 {height: 199px; margin-top: 0; margin-bottom: 0}
+.u-section-4 .u-text-2 {margin: 12px auto 0}
+.u-section-4 .u-container-layout-3 {padding: 10px}
+.u-section-4 .u-image-3 {height: 199px; margin-top: 0; margin-bottom: 0}
+.u-section-4 .u-text-3 {margin: 12px auto 0} 
+
+@media (max-width: 991px){ .u-section-4 .u-list-1 {margin-left: 147px}
+.u-section-4 .u-repeater-1 {grid-template-columns: 100%}
+.u-section-4 .u-image-1 {height: 413px}
+.u-section-4 .u-image-2 {height: 413px}
+.u-section-4 .u-image-3 {height: 413px} }
+
+@media (max-width: 767px){ .u-section-4 .u-list-1 {width: 540px; margin-left: 0}
+.u-section-4 .u-image-1 {height: 388px}
+.u-section-4 .u-image-2 {height: 388px}
+.u-section-4 .u-image-3 {height: 388px} }
+
+@media (max-width: 575px){ .u-section-4 .u-list-1 {width: 340px}
+.u-section-4 .u-image-1 {height: 239px}
+.u-section-4 .u-image-2 {height: 239px}
+.u-section-4 .u-image-3 {height: 239px} }
